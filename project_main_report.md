@@ -1,3 +1,6 @@
+# PROJECT FINAL REPORT:
+
+
 1. Introduction
 
 Digital literacy means the ability to use digital devices, software, and online platforms effectively for learning, communication, and work. In modern education, digital literacy has become very important because most academic and professional work is done using computers and the internet.
